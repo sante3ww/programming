@@ -1,0 +1,51 @@
+p {
+    font-family: arial;
+    margin-top: 0px;
+}
+
+ .title {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    width: 300px;
+    line-height: 22px;
+    margin-bottom: 8px;
+ }
+
+ .info {
+    font-size: 14px;
+    color: rgb(124, 124, 124);
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.user {
+    font-size: 14px;
+    color: rgb(124, 124, 124);
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 14px;
+    color: rgb(124, 124, 124);
+    width: 280px;
+    line-height: 20px;
+    margin-bottom: 100px;
+}
+
+.apple {
+    font-size: 14px;
+    background-color: rgb(218, 28, 28);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.active-text {
+    cursor: pointer;
+}
+
+.active-text:hover{
+    text-decoration: underline;
+}
